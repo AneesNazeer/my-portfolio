@@ -22,7 +22,7 @@ const Footer = () => {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/sabari-vr"
+                // href="https://github.com/sabari-vr"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ const Footer = () => {
             </li>
             <li className="social-icons">
               <a
-                href="https://github.com/sabari-vr"
+                // href="https://github.com/sabari-vr"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -44,7 +44,7 @@ const Footer = () => {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/sabari-v-r-713043219/"
+                // href="https://www.linkedin.com/in/sabari-v-r-713043219/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -55,7 +55,7 @@ const Footer = () => {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/sabari_v_r/"
+                // href="https://www.instagram.com/sabari_v_r/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"

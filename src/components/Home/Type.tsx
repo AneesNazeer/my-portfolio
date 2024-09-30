@@ -8,7 +8,6 @@ const Type = () => {
         strings: [
           "MERN Stack Developer",
           "React JS Developer",
-          "React Native Developer",
           "Node JS Developer",
         ],
         autoStart: true,

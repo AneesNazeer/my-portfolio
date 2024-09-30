@@ -52,9 +52,6 @@ const Techstack = () => {
         <SiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <BiLogoPostgresql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
@@ -77,9 +74,6 @@ const Techstack = () => {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiAmazonaws />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiDocker />

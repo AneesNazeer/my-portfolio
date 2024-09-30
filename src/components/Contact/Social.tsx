@@ -20,7 +20,7 @@ const Social = () => {
           <ul className="contact-social-links">
             <li className="contact-icons">
               <a
-                href="https://github.com/sabari-vr"
+                // href="https://github.com/sabari-vr"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-color  contact-social-icons"
@@ -30,7 +30,7 @@ const Social = () => {
             </li>
             <li className="contact-icons">
               <a
-                href="https://github.com/sabari-vr"
+                // href="https://github.com/sabari-vr"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-color  contact-social-icons"
@@ -40,7 +40,7 @@ const Social = () => {
             </li>
             <li className="contact-icons">
               <a
-                href="https://www.linkedin.com/in/sabari-v-r-713043219/"
+                // href="https://www.linkedin.com/in/sabari-v-r-713043219/"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-color  contact-social-icons"
@@ -50,7 +50,7 @@ const Social = () => {
             </li>
             <li className="contact-icons">
               <a
-                href="https://www.instagram.com/sabari_v_r/"
+                // href="https://www.instagram.com/sabari_v_r/"
                 target="_blank"
                 rel="noreferrer"
                 className="icon-color contact-social-icons"

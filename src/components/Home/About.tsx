@@ -16,18 +16,18 @@ const About = () => {
               LET ME <span className="yellow">INTRODUCE</span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi, my name is <span className="yellow">Sabari V R</span> and I'm
+              Hi, my name is <span className="yellow">Anees Nazeer</span> and I'm
               from <span className="yellow">Kerala, India.</span>
               <br />
               <br />
-              I hold a Master's degree in Computer Application.
+              I hold a degree in Computer Application.
               <br />
               <br />
               As a <b className="yellow">Full-Stack</b> developer, I thrive on
               tackling new challenges and continuously expanding my skillset.
               <br />
               <br />I am proficient in <b className="yellow">JavaScript</b> and
-              its ecosystems, including React JS, Node JS, React Native, and{" "}
+              its ecosystems, including React JS, Node JS, and{" "}
               <b className="yellow">Solidity</b>.
               <br />
               <br />I have a passion for working with{" "}
@@ -67,7 +67,7 @@ const About = () => {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/sabari-vr"
+                  // href="https://github.com/sabari-vr"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -78,7 +78,7 @@ const About = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/sabari-vr"
+                  // href="https://github.com/sabari-vr"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -89,7 +89,7 @@ const About = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/sabari-v-r-713043219/"
+                  // href="https://www.linkedin.com/in/sabari-v-r-713043219/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -100,7 +100,7 @@ const About = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/sabari_v_r/"
+                  // href="https://www.instagram.com/sabari_v_r/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
